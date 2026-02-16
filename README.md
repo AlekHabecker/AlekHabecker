@@ -7,7 +7,10 @@ Sophomore pursuing Computer Engineering (BA from DePauw, BS from Washington Univ
 
 ## Interests
 
-Quantum computing, computational plasma physics, complex systems & nonlinear dynamics, neuromorphic computing, high-energy physics simulation
+-Information Theory in Physical Systems
+-Computational Plasma Physics 
+-Complex Systems & Nonlinear Dynamics 
+-Neuromorphic Computing Architectures 
 
 ## Current Work
 - **Science Research Fellow** at DePauw University
