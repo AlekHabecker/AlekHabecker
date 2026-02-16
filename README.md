@@ -1,13 +1,13 @@
 # Alek Habecker
 
-**Computational Science Student | DePauw '29 → WashU Dual Degree**
+**Computer Engineering Student | DePauw '29 → WashU Dual Degree**
 
 ## About Me
-Sophomore pursuing Computer Engineering (BA from DePauw, BS from Washington University in St. Louis) with interests in:
-- 🧮 Computational Science & Mathematical Modeling
-- 🤖 Machine Learning & Novel AI Architectures
-- ⚛️ Quantum Computing
-- 🔬 Scientific Computing & Physics Simulations
+Sophomore pursuing Computer Engineering (BA from DePauw, BS from Washington University in St. Louis)
+
+## Interests
+
+Quantum computing, computational plasma physics, complex systems & nonlinear dynamics, neuromorphic computing, high-energy physics simulation
 
 ## Current Work
 - **Science Research Fellow** at DePauw University
