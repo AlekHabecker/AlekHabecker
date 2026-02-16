@@ -8,8 +8,11 @@ Sophomore pursuing Computer Engineering (BA from DePauw, BS from Washington Univ
 ## Interests
 
 - Information Theory in Physical Systems
-- Computational Plasma Physics 
-- Complex Systems & Nonlinear Dynamics 
+
+- Computational Plasma Physics
+
+- Complex Systems & Nonlinear Dynamics
+
 - Neuromorphic Computing Architectures 
 
 ## Current Work
